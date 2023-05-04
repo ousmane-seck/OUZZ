@@ -1,0 +1,1317 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2819px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .desktop-1 .flex-row {
+    align-items: flex-end;
+    background-color: var(--monza);
+    display: flex;
+    gap: 82px;
+    height: 999px;
+    min-width: 1440px;
+    padding: 53.6px 75px;
+    z-index: 1;
+  }
+  
+  .desktop-1 .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 48px;
+    height: 727px;
+    min-width: 828px;
+  }
+  
+  .desktop-1 .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 726px;
+    width: 416px;
+  }
+  
+  .desktop-1 .overlap-group8 {
+    align-items: flex-end;
+    background-color: var(--monza);
+    border: 1px solid;
+    border-color: var(--storm-dust);
+    display: flex;
+    flex-direction: column;
+    min-height: 338px;
+    padding: 15px 13px;
+    width: 416px;
+  }
+  
+  .desktop-1 .flex-col-1 {
+    align-items: flex-start;
+    margin-right: 1px;
+    margin-top: 1px;
+    min-height: 162px;
+    width: 379px;
+  }
+  
+  .desktop-1 .flex-row-2 {
+    align-items: center;
+    display: flex;
+    gap: 149px;
+    min-width: 346px;
+  }
+  
+  .desktop-1 .premier-league-sat-6-may-1630 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 2.0px;
+    min-height: 37px;
+    width: 148px;
+  }
+  
+  .desktop-1 .pngegg-2-3 {
+    height: 49px;
+    object-fit: cover;
+    width: 49px;
+  }
+  
+  .desktop-1 .flex-row-3 {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 3px;
+    margin-top: 46px;
+    min-width: 376px;
+  }
+  
+  .desktop-1 .pngegg-1-3 {
+    height: 36px;
+    margin-top: 12.0px;
+    object-fit: cover;
+    width: 36px;
+  }
+  
+  .desktop-1 .place-1 {
+    margin-left: 7px;
+    margin-top: 14.0px;
+    min-height: 18px;
+    width: 77px;
+  }
+  
+  .desktop-1 .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    margin-left: 186px;
+    min-height: 60px;
+    width: 24px;
+  }
+  
+  .desktop-1 .overlap-group15 {
+    align-items: center;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-2.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 25px;
+    min-width: 24px;
+    padding: 0 8px;
+  }
+  
+  .desktop-1 .number {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 13px;
+    width: 8px;
+  }
+  
+  .desktop-1 .overlap-group13 {
+    align-items: center;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-3.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    min-width: 24px;
+    padding: 0 8px;
+  }
+  
+  .desktop-1 .number-1 {
+    min-height: 14px;
+    width: 8px;
+  }
+  
+  .desktop-1 .flex-col-2 {
+    align-items: flex-start;
+    gap: 23px;
+    margin-bottom: 1.0px;
+    margin-left: 9px;
+    min-height: 47px;
+    width: 37px;
+  }
+  
+  .desktop-1 .days {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .hrs {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .line-9 {
+    align-self: center;
+    height: 1px;
+    margin-right: 8.0px;
+    margin-top: 6px;
+    object-fit: cover;
+    width: 343px;
+  }
+  
+  .desktop-1 .flex-row-4 {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    height: 61px;
+    margin-top: 15px;
+    min-width: 377px;
+  }
+  
+  .desktop-1 .pngegg-3-2 {
+    height: 36px;
+    margin-bottom: 11.0px;
+    object-fit: cover;
+    width: 36px;
+  }
+  
+  .desktop-1 .flex-col-3 {
+    align-items: flex-end;
+    gap: 2px;
+    min-height: 61px;
+    width: 331px;
+  }
+  
+  .desktop-1 .flex-row-5 {
+    align-items: flex-start;
+    display: flex;
+    height: 34px;
+    margin-right: 1px;
+    min-width: 330px;
+  }
+  
+  .desktop-1 .place-2 {
+    align-self: flex-end;
+    min-height: 19px;
+    width: 74px;
+  }
+  
+  .desktop-1 .overlap-group17 {
+    align-items: center;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-2.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    margin-left: 186px;
+    min-width: 24px;
+    padding: 0 2px;
+  }
+  
+  .desktop-1 .number-2 {
+    min-height: 13px;
+    width: 16px;
+  }
+  
+  .desktop-1 .min {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 10.0px;
+    margin-left: 9px;
+    min-height: 12px;
+    white-space: nowrap;
+    width: 37px;
+  }
+  
+  .desktop-1 .flex-row-6 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    min-width: 70px;
+  }
+  
+  .desktop-1 .overlap-group14 {
+    align-items: flex-start;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-5.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 25px;
+    min-width: 25px;
+    padding: 5px 9px;
+  }
+  
+  .desktop-1 .number-3 {
+    min-height: 14px;
+    width: 7px;
+  }
+  
+  .desktop-1 .sec {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 3.0px;
+    min-height: 12px;
+    white-space: nowrap;
+    width: 37px;
+  }
+  
+  .desktop-1 .overlap-group16 {
+    align-items: center;
+    background-color: var(--black);
+    display: flex;
+    gap: 1px;
+    height: 49px;
+    margin-right: 15px;
+    margin-top: 20px;
+    min-width: 362px;
+    padding: 16px 13px;
+  }
+  
+  .desktop-1 .rematch-center-foll {
+    align-self: flex-end;
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 15px;
+    width: 286px;
+  }
+  
+  .desktop-1 .arrow-1 {
+    height: 15px;
+    margin-bottom: 1.0px;
+    width: 8px;
+  }
+  
+  .desktop-1 .overlap-group11 {
+    align-items: flex-end;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/rectangle-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 229px;
+    margin-left: 1px;
+    margin-top: 51px;
+    min-width: 415px;
+    padding: 80px 7px;
+  }
+  
+  .desktop-1 .play-circle-fill-1 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .desktop-1 .address-1 {
+    margin-left: 3px;
+    margin-top: 32px;
+    min-height: 62px;
+    width: 303px;
+  }
+  
+  .desktop-1 .line-3 {
+    height: 2px;
+    margin-left: 1px;
+    margin-top: 13px;
+    width: 359px;
+  }
+  
+  .desktop-1 .flex-col-4 {
+    align-items: flex-start;
+    min-height: 727px;
+    width: 364px;
+  }
+  
+  .desktop-1 .rectangle-2 {
+    height: 221px;
+    object-fit: cover;
+    width: 361px;
+  }
+  
+  .desktop-1 .overlap-group10 {
+    height: 63px;
+    margin-left: 1px;
+    margin-top: 54px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .desktop-1 .address {
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 348px;
+  }
+  
+  .desktop-1 .line {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 62px;
+    width: 359px;
+  }
+  
+  .desktop-1 .rectangle-5 {
+    height: 229px;
+    margin-left: 3px;
+    margin-top: 51px;
+    object-fit: cover;
+    width: 361px;
+  }
+  
+  .desktop-1 .overlap-group12 {
+    height: 63px;
+    margin-left: 4px;
+    margin-top: 46px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .desktop-1 .address-2 {
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 319px;
+  }
+  
+  .desktop-1 .flex-col-5 {
+    align-items: flex-start;
+    min-height: 727px;
+    width: 362px;
+  }
+  
+  .desktop-1 .rectangle-15 {
+    height: 227px;
+    margin-left: 1px;
+    object-fit: cover;
+    width: 361px;
+  }
+  
+  .desktop-1 .overlap-group9 {
+    height: 63px;
+    margin-left: 2px;
+    margin-top: 48px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .desktop-1 .address-3 {
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 345px;
+  }
+  
+  .desktop-1 .span0 {
+    color: #ebb4b3;
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s2);
+    font-weight: 500;
+  }
+  
+  .desktop-1 .rectangle-6 {
+    height: 229px;
+    margin-top: 51px;
+    object-fit: cover;
+    width: 361px;
+  }
+  
+  .desktop-1 .overlap-group7 {
+    height: 63px;
+    margin-left: 1px;
+    margin-top: 46px;
+    position: relative;
+    width: 359px;
+  }
+  
+  .desktop-1 .span2 {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+  }
+  
+  .desktop-1 .rectangle-40 {
+    background-color: #ac0a16;
+    height: 88px;
+    left: -4px;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+    z-index: 8;
+  }
+  
+  .desktop-1 .rectangle-41 {
+    background-color: #ca2c25;
+    height: 87px;
+    left: 93px;
+    position: fixed;
+    top: 60px;
+    width: 1254px;
+    z-index: 9;
+  }
+  
+  .desktop-1 .title {
+    color: var(--white);
+    cursor: pointer;
+    font-family: var(--font-family-trirong);
+    font-size: 25px;
+    font-weight: 400;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 78px;
+    z-index: 16;
+  }
+  
+  .desktop-1 .line-20 {
+    height: 40px;
+    left: 1068px;
+    object-fit: cover;
+    position: fixed;
+    top: 79px;
+    width: 1px;
+    z-index: 11;
+  }
+  
+  .desktop-1 .line-21 {
+    height: 40px;
+    left: 1228px;
+    object-fit: cover;
+    position: fixed;
+    top: 79px;
+    width: 1px;
+    z-index: 12;
+  }
+  
+  .desktop-1 .x80c1d5c9738e53dda9bb {
+    height: 29px;
+    left: 1247px;
+    object-fit: cover;
+    position: fixed;
+    top: 87px;
+    width: 81px;
+    z-index: 14;
+  }
+  
+  .desktop-1 .news-video-fixtures {
+    left: 430px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 90px;
+    width: 638px;
+    z-index: 10;
+  }
+  
+  .desktop-1 .join-login {
+    left: 1108px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 91px;
+    width: 107px;
+    z-index: 13;
+  }
+  
+  .desktop-1 .user-solid-1 {
+    height: 17px;
+    left: 1087px;
+    position: fixed;
+    top: 92px;
+    width: 15px;
+    z-index: 15;
+  }
+  
+  .desktop-1 .flex-row-7 {
+    align-items: center;
+    display: flex;
+    margin-left: 37.5px;
+    margin-top: 69px;
+    min-width: 1322px;
+    z-index: 4;
+  }
+  
+  .desktop-1 .overlap-group6 {
+    align-items: flex-start;
+    align-self: flex-start;
+    background-color: #010101;
+    border-radius: 14px;
+    display: flex;
+    height: 36px;
+    justify-content: flex-end;
+    min-width: 106px;
+    padding: 9px 15px;
+  }
+  
+  .desktop-1 .fixtures {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 11px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group5 {
+    align-items: flex-start;
+    background-color: #ffd700;
+    border-radius: 14px;
+    display: flex;
+    gap: 12px;
+    height: 41px;
+    margin-left: 690px;
+    min-width: 392px;
+    padding: 10px 20px;
+  }
+  
+  .desktop-1 .arrow-down-fill-1 {
+    align-self: center;
+    height: 16px;
+    margin-top: 1.0px;
+    width: 18px;
+  }
+  
+  .desktop-1 .sign-in-to-add-fixtures-to-calendar {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .all-fixtures {
+    color: #626262;
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 3.0px;
+    margin-left: 26px;
+    min-height: 24px;
+    width: 103px;
+  }
+  
+  .desktop-1 .arrow-2 {
+    height: 7px;
+    margin-bottom: 9.0px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .desktop-1 .flex-row-8 {
+    align-items: center;
+    display: flex;
+    height: 280px;
+    margin-left: 45.0px;
+    margin-top: 72px;
+    min-width: 1329px;
+    z-index: 2;
+  }
+  
+  .desktop-1 .overlap-group3 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--storm-dust);
+    display: flex;
+    flex-direction: column;
+    min-height: 280px;
+    padding: 4px 10px;
+    width: 303px;
+  }
+  
+  .desktop-1 .flex-row-9 {
+    align-items: flex-start;
+    display: flex;
+    gap: 121px;
+    height: 122px;
+    min-width: 282px;
+  }
+  
+  .desktop-1 .flex-col-6 {
+    align-items: flex-start;
+    align-self: flex-end;
+    gap: 56px;
+    min-height: 116px;
+    width: 121px;
+  }
+  
+  .desktop-1 .premier-league-sat-6-may-1630-1 {
+    min-height: 30px;
+    width: 121px;
+  }
+  
+  .desktop-1 .flex-row-10 {
+    align-items: center;
+    display: flex;
+    gap: 5px;
+    margin-left: 2px;
+    min-width: 98px;
+  }
+  
+  .desktop-1 .pngegg {
+    height: 30px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .desktop-1 .place {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 1.0px;
+    min-height: 15px;
+    white-space: nowrap;
+    width: 63px;
+  }
+  
+  .desktop-1 .pngegg-2-1 {
+    height: 40px;
+    object-fit: cover;
+    width: 40px;
+  }
+  
+  .desktop-1 .line-7 {
+    align-self: center;
+    height: 1px;
+    margin-right: 1.0px;
+    margin-top: 12px;
+    object-fit: cover;
+    width: 280px;
+  }
+  
+  .desktop-1 .flex-row-11 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    margin-left: 2px;
+    margin-top: 15px;
+    min-width: 98px;
+  }
+  
+  .desktop-1 .place-3 {
+    margin-bottom: 1.0px;
+    min-height: 15px;
+    white-space: nowrap;
+    width: 60px;
+  }
+  
+  .desktop-1 .overlap-group1 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--storm-dust);
+    display: flex;
+    flex-direction: column;
+    margin-left: 171px;
+    min-height: 280px;
+    padding: 12px 11px;
+    width: 336px;
+  }
+  
+  .desktop-1 .flex-col-7 {
+    align-items: flex-start;
+    margin-top: 1px;
+    min-height: 135px;
+    width: 306px;
+  }
+  
+  .desktop-1 .flex-row-12 {
+    align-items: center;
+    display: flex;
+    gap: 120px;
+    min-width: 279px;
+  }
+  
+  .desktop-1 .premier-league-sat-6-may-1630-2 {
+    min-height: 31px;
+    width: 119px;
+  }
+  
+  .desktop-1 .pngegg-2-4 {
+    height: 41px;
+    object-fit: cover;
+    width: 40px;
+  }
+  
+  .desktop-1 .flex-row-13 {
+    align-items: center;
+    display: flex;
+    height: 50px;
+    margin-left: 2px;
+    margin-top: 38px;
+    min-width: 304px;
+  }
+  
+  .desktop-1 .pngegg-1-4 {
+    height: 29px;
+    margin-top: 9.0px;
+    object-fit: cover;
+    width: 29px;
+  }
+  
+  .desktop-1 .place-4 {
+    margin-left: 6px;
+    margin-top: 11.0px;
+    min-height: 15px;
+    white-space: nowrap;
+    width: 62px;
+  }
+  
+  .desktop-1 .overlap-group-container-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    margin-left: 150px;
+    min-height: 50px;
+    width: 20px;
+  }
+  
+  .desktop-1 .overlap-group21 {
+    align-items: flex-start;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-6.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 21px;
+    min-width: 20px;
+    padding: 4px 7px;
+  }
+  
+  .desktop-1 .number-4 {
+    min-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group {
+    align-items: flex-start;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-7.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 20px;
+    min-width: 20px;
+    padding: 4px 7px;
+  }
+  
+  .desktop-1 .number-5 {
+    min-height: 11px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .flex-col-8 {
+    align-items: flex-start;
+    gap: 19px;
+    margin-bottom: 3.0px;
+    margin-left: 7px;
+    min-height: 39px;
+    width: 30px;
+  }
+  
+  .desktop-1 .days-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 11px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .hrs-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 9px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .line-22 {
+    align-self: center;
+    height: 1px;
+    margin-right: 7.0px;
+    margin-top: 5px;
+    object-fit: cover;
+    width: 279px;
+  }
+  
+  .desktop-1 .flex-row-14 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    height: 50px;
+    margin-top: 12px;
+    min-width: 304px;
+  }
+  
+  .desktop-1 .pngegg-3-3 {
+    height: 30px;
+    margin-bottom: 8.0px;
+    object-fit: cover;
+    width: 29px;
+  }
+  
+  .desktop-1 .flex-col-9 {
+    align-items: flex-end;
+    gap: 2px;
+    min-height: 50px;
+    width: 267px;
+  }
+  
+  .desktop-1 .flex-row-15 {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    min-width: 267px;
+  }
+  
+  .desktop-1 .place-5 {
+    align-self: flex-end;
+    min-height: 16px;
+    width: 60px;
+  }
+  
+  .desktop-1 .overlap-group22 {
+    align-items: flex-start;
+    background-image: url(../https://anima-uploads.s3.amazonaws.com/releases/6453b34469cdd9cf4fefc74e/img/ellipse-6.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 21px;
+    justify-content: flex-end;
+    margin-left: 150px;
+    min-width: 20px;
+    padding: 5px 2px;
+  }
+  
+  .desktop-1 .number-6 {
+    min-height: 10px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .min-1 {
+    align-self: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 9.0px;
+    margin-left: 7px;
+    min-height: 9px;
+    white-space: nowrap;
+    width: 30px;
+  }
+  
+  .desktop-1 .flex-row-16 {
+    align-items: center;
+    display: flex;
+    gap: 7px;
+    min-width: 56px;
+  }
+  
+  .desktop-1 .number-7 {
+    min-height: 11px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .sec-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 3.0px;
+    min-height: 9px;
+    white-space: nowrap;
+    width: 29px;
+  }
+  
+  .desktop-1 .overlap-group18 {
+    background-color: var(--black);
+    height: 41px;
+    margin-right: 12px;
+    margin-top: 17px;
+    position: relative;
+    width: 292px;
+  }
+  
+  .desktop-1 .rematch-center-foll-1 {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxs);
+    font-weight: 700;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    width: 263px;
+  }
+  
+  .desktop-1 .arrow-4 {
+    height: 15px;
+    left: 269px;
+    position: absolute;
+    top: 14px;
+    width: 8px;
+  }
+  
+  .desktop-1 .overlap-group4 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--storm-dust);
+    display: flex;
+    flex-direction: column;
+    margin-left: 171px;
+    min-height: 280px;
+    padding: 14px 10px;
+    width: 303px;
+  }
+  
+  .desktop-1 .flex-row-17 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    gap: 59px;
+    height: 126px;
+    margin-right: 1.0px;
+    min-width: 278px;
+  }
+  
+  .desktop-1 .flex-col-10 {
+    align-items: flex-start;
+    align-self: flex-end;
+    gap: 59px;
+    min-height: 121px;
+    width: 129px;
+  }
+  
+  .desktop-1 .premier-league-2-sat-6-may-1630 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    width: 129px;
+  }
+  
+  .desktop-1 .flex-row-18 {
+    align-items: flex-start;
+    display: flex;
+    gap: 8px;
+    margin-left: 2px;
+    min-width: 127px;
+  }
+  
+  .desktop-1 .rectangle-14 {
+    height: 32px;
+    object-fit: cover;
+    width: 30px;
+  }
+  
+  .desktop-1 .name {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 4px;
+    min-height: 15px;
+    white-space: nowrap;
+  }
+  
+  .desktop-1 .overlap-group23 {
+    height: 51px;
+    position: relative;
+    width: 90px;
+  }
+  
+  .desktop-1 .pngegg-2-2 {
+    height: 51px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 77px;
+  }
+  
+  .desktop-1 .number-8 {
+    color: #88c88a;
+    font-family: var(--font-family-roboto);
+    font-size: 35px;
+    font-weight: 600;
+    left: 74px;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+    width: 16px;
+  }
+  
+  .desktop-1 .line-8 {
+    align-self: flex-end;
+    height: 1px;
+    margin-top: 7px;
+    object-fit: cover;
+    width: 280px;
+  }
+  
+  .desktop-1 .flex-row-19 {
+    align-items: center;
+    display: flex;
+    gap: 5px;
+    margin-left: 2px;
+    margin-top: 15px;
+    min-width: 98px;
+  }
+  
+  .desktop-1 .arrow-right-circle-fill-1-1 {
+    height: 24px;
+    margin-left: 21px;
+    width: 24px;
+  }
+  
+  .desktop-1 .rectangle-45 {
+    height: 232px;
+    margin-top: 54px;
+    object-fit: cover;
+    width: 1284px;
+    z-index: 5;
+  }
+  
+  .desktop-1 .arrow-3 {
+    height: 1px;
+    margin-right: 123.0px;
+    margin-top: 45px;
+    object-fit: cover;
+    width: 1px;
+    z-index: 3;
+  }
+  
+  .desktop-1 .rectangle-46 {
+    height: 180px;
+    margin-top: 10px;
+    object-fit: cover;
+    width: 1440px;
+    z-index: 6;
+  }
+  
+  .desktop-1 .overlap-group2 {
+    height: 836px;
+    position: relative;
+    width: 1440px;
+    z-index: 7;
+  }
+  
+  .desktop-1 .rectangle-47 {
+    height: 119px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-48 {
+    height: 509px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 118px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .rectangle-49 {
+    height: 212px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 624px;
+    width: 1440px;
+  }
+  
+  .desktop-1 .address-4 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-1 .flex-col-11 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .desktop-1 .number-9 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-1 .place-6 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-1 .premier-league-sat-6-may-1630-3 {
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500,600|Trirong:400");
+  /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+  @import url("https://px.animaapp.com/64539bc88b4e7062cd31aa28.64539bd182e708c598bdc8c3.64539bd4d88f082f8741ebe8.hcp.png");
+  
+  
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  :root { 
+    --alto: #d9d9d9;
+    --black: #000000;
+    --monza: #dc0714;
+    --storm-dust: #62626247;
+    --storm-dust-2: #626262b0;
+    --white: #ffffff;
+   
+    --font-size-l2: 14px;
+    --font-size-m2: 13px;
+    --font-size-s: 10px;
+    --font-size-s2: 12px;
+    --font-size-xxl: 17px;
+    --font-size-xxs: 9px;
+    --font-size-xxxl: 18px;
+   
+    --font-family-roboto: "Roboto", Helvetica;
+    --font-family-trirong: "Trirong", Helvetica;
+  }
+  .roboto-normal-white-10px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-black-10px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-medium-black-13px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .roboto-medium-white-12px {
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .roboto-bold-white-13px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .roboto-semi-bold-white-14px {
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-medium-storm-dust-12px {
+    color: var(--storm-dust-2);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .roboto-medium-alto-12px {
+    color: var(--alto);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .roboto-semi-bold-white-17px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-semi-bold-black-14px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-medium-white-13px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .roboto-semi-bold-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-semi-bold-white-14px2 {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+    
